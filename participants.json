@@ -134,7 +134,7 @@
     "GitHub Profile": "https://github.com/AlbertAdekanye",
     "Which niche would you like contributing too?": "Code"
   },
-    {
+  {
     "Name": "Anthony Samson",
     "Nickname": "Samsoncdr",
     "Tech Stack": "Frontend",
@@ -142,8 +142,8 @@
     "Twitter Handle": "@anth_samson",
     "GitHub Profile": "https://github.com/Samson063",
     "Which niche would you like contributing too?": "Code"
-
-   {
+  },
+  {
     "Name": "Oluwole Emmanuel",
     "Nickname": "dread",
     "Tech Stack": "Frontend",
@@ -152,7 +152,7 @@
     "GitHub Profile": "https://github.com/Hallowdread",
     "Which niche would you like contributing too?": "Code"
   },
-    {
+  {
     "Name": "Oseni Abdulsamad Adeshina",
     "Nickname": "1AmSammi3",
     "Tech Stack": "Frontend",
@@ -170,7 +170,8 @@
     "GitHub Profile": "https://github.com/Laycon-devs",
     "Which niche would you like contributing too?": "Code"
   },
-  { "Name": "Ale Oluwatimilehin J",
+  {
+    "Name": "Ale Oluwatimilehin J",
     "Nickname": "Captain-Tee",
     "Tech Stack": "Frontend/Design",
     "Experience Level in OSS": "Beginner",
@@ -178,12 +179,22 @@
     "GitHub Profile": "https://github.com/Captain-Tee01",
     "Which niche would you like contributing too?": "Documentation/Design"
   },
-   { "Name": "Ibraheem A. Ogundele",
+  {
+    "Name": "Ibraheem A. Ogundele",
     "Nickname": "Logboi",
     "Tech Stack": "Full Stack (Mobile & Web)",
     "Experience Level in OSS": "Intermediate",
     "Twitter Handle": "@Ibraheemogunde2",
     "GitHub Profile": "https://github.com/logboi1",
+    "Which niche would you like contributing too?": "Code"
+  },
+  {
+    "Name": "Christopher Adebiyi",
+    "Nickname": "Chris",
+    "Tech Stack": "Backend (Python)",
+    "Experience Level in OSS": "Expert",
+    "Twitter Handle": "@chris_adeh",
+    "GitHub Profile": "https://github.com/Chris-ade",
     "Which niche would you like contributing too?": "Code"
   }
 ]
